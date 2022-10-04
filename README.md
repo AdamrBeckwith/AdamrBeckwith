@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Adam Beckwith a junior at HMC. I am majoring in Computer Science and Mathematics. I also am getting a concentration in Latino/Chicano studies 
+- 👋 Hi, I’m Adam Beckwith a Senior at HMC. I am majoring in Computer Science and Mathematics. I also am getting a concentration in Latino/Chicano studies 
 - I’m interested in many aspects of progamming, specifically Computer Vision and Interaction design (very different I know) 
 - Currently, I am a Student researcher for HMC Beelab working to convert ant movement on a tree into data through a Computer Vision Pipeline 
 - I’m currently learning Algorithms and Interaction design at HMC. 
