@@ -1,14 +1,13 @@
 Hello! 
 
+I am Adam Beckwith, and the AdamBeckwith_CodeSample file contains two samples of my code. 
 
-I am Adam Beckwith and this code sample is work from a project in my Computer Systems course. 
-All work in these classes are pair-programming, so I must thank my partner Chris Couto for assistance. 
-Although it is pair work, I promise that we both contributed equally to the project both conceptually and 
-actually typing the code.
+The first is a coding sample where I inplement Caches in C. 
 
-This code shows our work with caches! In csim.c is our personal implementation of a cache. 
-In trans.c we transpose a matrix as efficiently as possible in various forms.  This code work is in C,
-but I am also proficient in Python, java and C++. 
+The second is a coding sample of a notetaking website. 
+
+Please feel free to look at either or both, depending on what you think will be most informative.
+ I will warn that the Cache sample is about 6 months older, but should still be useful. 
 
 I hope this code sample shows my proficiency as a coder, and my understanding of key computer science 
 elements. 
